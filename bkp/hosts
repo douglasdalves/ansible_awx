@@ -1,0 +1,5 @@
+[server]
+192.168.8.10 ansible_user=vagrant ansible_ssh_private_key_file="/projeto/ansible/key/chave_ansible"
+
+[dbserver]
+192.168.8.11 ansible_user=vagrant ansible_ssh_private_key_file="/home/vagrant/comp/chaves/chave_ansible"
